@@ -1,7 +1,7 @@
 ## HELLO_WORLD
 
 ### App Description
-`TODO://` Basic Android app
+Basic Android app
 
 ### App Walk-though
 
